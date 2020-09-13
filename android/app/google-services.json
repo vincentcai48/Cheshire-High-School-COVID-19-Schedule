@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "432535987024",
+    "firebase_url": "https://flutterfirebasetutorial-e537d.firebaseio.com",
+    "project_id": "flutterfirebasetutorial-e537d",
+    "storage_bucket": "flutterfirebasetutorial-e537d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432535987024:android:dbd19d78647e91c5540255",
+        "android_client_info": {
+          "package_name": "com.vincentcai.flutterfirebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432535987024-fo01n1cgdmtt94hougt0t2jkojlt02bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1hXi19q8JZwiCP1dbTpb4C5CBwJVfqEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432535987024-fo01n1cgdmtt94hougt0t2jkojlt02bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
